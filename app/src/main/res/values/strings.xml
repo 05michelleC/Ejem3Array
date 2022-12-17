@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Ejem3Array</string>
+    <string name="numero1">Digita un numero</string>
+    <string name="numero2">Digita otro numero</string>
+    <string name="boton">calcular</string>
+    <string name="resultado">Resultado</string>
+</resources>
